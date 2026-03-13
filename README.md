@@ -23,9 +23,9 @@ The project was developed for the **SCIA (Analog Integrated Circuits Systems)** 
 *The system uses high-performance **AD8065** operational amplifiers to ensure high linearity (THD < 1%) and wide bandwidth.*
 
 ## Repository Contents
-* `src/`: LTspice simulation files (`.asc`).
-* `docs/`: Full technical report in PDF format.
-* `assets/`: Simulation waveforms (Bode plots, Transient analysis).
+* LTspice simulation files.
+* Full technical report in PDF format.
+* Simulation waveforms (Bode plots, Transient analysis).
 
 ## Documentation
 For a deep dive into calculations, component dimensioning (E12/E24 series), and error analysis, please see the full report:
