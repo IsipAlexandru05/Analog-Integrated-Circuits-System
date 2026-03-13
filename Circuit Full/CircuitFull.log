@@ -1,0 +1,17 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\alexa\Desktop\Proiect SCIA\CircuitFull.net
+Start Time: Wed Jan 21 10:16:17 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.979 seconds.
+
+Files loaded:
+C:\Users\alexa\Desktop\Proiect SCIA\CircuitFull.net
+C:\Users\alexa\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\alexa\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\alexa\AppData\Local\LTspice\lib\sub\AD8065.lib
+
